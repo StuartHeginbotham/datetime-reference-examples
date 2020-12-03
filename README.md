@@ -8,7 +8,7 @@ The following packagea are covered:
 * dateutil
 * fiscalyear
 
-##Usecase
+Usecase
 
 The use case we are going to base this walkthrough on is do month to date financial report that is dependant on an external api. Assuming the api will accept date in string formant you could assume you would need to following capabilities:
 
